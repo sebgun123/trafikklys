@@ -1,0 +1,28 @@
+#trafikklys{
+
+}
+
+.rød {
+    background-color: red;
+    opacity: 10%;
+}
+
+.orange {
+    background-color: orange;
+    opacity: 10%;
+}
+
+.grønn {
+    background-color: green;
+    opacity: 10%;
+}
+
+.sirkel {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.active {
+    opacity: 100%;
+}
